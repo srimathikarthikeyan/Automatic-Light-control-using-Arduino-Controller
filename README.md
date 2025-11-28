@@ -8,6 +8,11 @@ To design and simulate automatic light controller using LDR and Arduino UNO cont
 Arduino IDE </br>
 Proteus
 
+
+
+
+
+
 ## PROCEDURE:
 ### Arduino IDE
 Step1:Open the Arduino IDE </br>
